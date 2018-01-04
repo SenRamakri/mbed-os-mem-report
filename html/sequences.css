@@ -1,0 +1,78 @@
+body {
+  font-family: system-ui;
+  font-size: 12px;
+  font-weight: 400;
+  background-color: #fff;
+  width: 1200px;
+  height: 1700px;
+  margin-top: 10px;
+}
+
+#main {
+  float: left;
+  width: 1200px;
+  height: 720px;
+}
+
+#sidebar {
+  float: right;
+  width: 100px;
+}
+
+#sequence {
+  width: 1200px;
+  height: 70px;
+}
+
+#legend {
+  padding: 10px 0 0 3px;
+}
+
+#sequence text, #legend text {
+  font-weight: 600;
+  fill: #fff;
+}
+
+#chart {
+  position: relative;
+}
+
+#chart path {
+  stroke: #fff;
+}
+
+#explanation {
+  position: absolute;
+  top: 260px;
+  left: 430px;
+  width: 140px;
+  text-align: center;
+  color: #666;
+  z-index: -1;
+}
+
+#explanation_total {
+  position: absolute;
+  top: 660px;
+  left: 20px;
+  width: 200px;
+  text-align: center;
+  color: #666;
+  z-index: -1;
+}
+
+#percentage {
+  font-size: 2.5em;
+}
+
+#total {
+  font-size: 2.5em;
+}
+
+#percentage {
+  font-size: 2.5em;
+}
+
+#title {
+  font-size: 2.5em;
+}
