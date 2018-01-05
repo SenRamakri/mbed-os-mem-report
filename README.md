@@ -1,5 +1,5 @@
 ## Runtime Memory Trace Analysis
-This post-processing tool can be used to parse memory tracing logs to generate runtime memory statistics. 
+This post-processing tool can be used to parse memory tracing logs to generate runtime memory information. 
 
 ## Installation
 Install `arm-none-eabi-gcc` and add to your path. This will install `arm-none-eabi-nm`.    
