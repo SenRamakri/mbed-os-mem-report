@@ -67,4 +67,5 @@ You can hover your mouse on top of each sector to get a banner on top which indi
 **Peak Memory Usage/Object** provides a peak memory usage of each object file based on memory tracing logs.    
 Note that in the case where the tool is not able to find the exact symbol in the map file the function name itself will be used to represent the memory usage.   
 
-
+## Interactive Example
+[Click Here](https://senramakri.github.io/mbed-os-mem-report/) for an interactive example.
